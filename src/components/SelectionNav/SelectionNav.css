@@ -1,0 +1,9 @@
+.options {
+  margin-left: 100px;
+}
+.span1 {
+  color: white;
+  background-color: rgb(158, 158, 158);
+  padding: 3px;
+  border-radius: 8px;
+}

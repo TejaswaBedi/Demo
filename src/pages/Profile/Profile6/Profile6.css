@@ -1,0 +1,10 @@
+.hackathon {
+  display: flex;
+  margin-left: 300px;
+  column-gap: 50px;
+}
+.hackathon-content1 {
+  display: grid;
+  grid-template-columns: auto;
+  row-gap: 20px;
+}

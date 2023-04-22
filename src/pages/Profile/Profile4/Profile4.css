@@ -1,0 +1,10 @@
+.internship {
+  display: flex;
+  column-gap: 5rem;
+  margin-left: 300px;
+}
+
+.button-class {
+  display: flex;
+  column-gap: 30px;
+}

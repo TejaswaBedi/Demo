@@ -1,0 +1,11 @@
+.tech-details,
+.prof-details {
+  display: flex;
+  flex-direction: column;
+  row-gap: 10px;
+}
+.skills {
+  display: grid;
+  grid-template-columns: auto auto;
+  margin: 50px 150px;
+}

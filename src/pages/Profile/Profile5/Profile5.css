@@ -1,0 +1,8 @@
+.domain {
+  margin: 15px 300px;
+}
+.button-class {
+  display: flex;
+  column-gap: 30px;
+  margin-top: 50px;
+}

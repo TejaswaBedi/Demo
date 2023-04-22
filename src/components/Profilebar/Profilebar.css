@@ -1,0 +1,13 @@
+.username {
+  display: flex;
+  justify-content: space-between;
+  margin-left: 20rem;
+  margin-right: 20rem;
+  margin-top: 5rem;
+  margin-bottom: 5rem;
+}
+
+.dp{
+  border-radius: 100%;
+  height: 200px;
+}

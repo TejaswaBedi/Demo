@@ -1,0 +1,44 @@
+* {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+.details-side, span {
+  margin-right: 50px;
+  font-size: 25px;
+}
+
+.avatar {
+  display: block;
+  border-radius: 50%;
+  margin-bottom: 2rem;
+  height: 250px;
+}
+
+.prof1 {
+  display: flex;
+  max-width: 1500px;
+  margin-top: 5rem;
+}
+
+.sel {
+  height: 40px;
+  border-radius: 8px;
+  font-size: medium;
+}
+
+.avatar-side {
+  margin-left: 25rem;
+  margin-right: 5rem;
+}
+
+.details-side {
+  margin-right: 20rem;
+  margin-left: 5rem;
+}
+
+.details-side input, .sel{
+  width: 100%;
+}
+.details-side button{
+  margin-bottom: 5rem;
+}
